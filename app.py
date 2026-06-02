@@ -26,7 +26,7 @@ ut.generarMenu()
 st.title("Análisis de energía solar en Colombia")
 
 # Abrir imagen
-imagen = Image.open("media/energia1.jpg")
+imagen = Image.open("media/Energia1.jpg")
 
 # Mostrar imagen
 col1, col2, col3 = st.columns([1,2,1])
